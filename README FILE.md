@@ -1,6 +1,6 @@
 # New Tab Game
 
-[website/Non Tab Version](https://newtabgame.herokuapp.com/ "Website")
+[website/Non Tab Version](https://tabwars.github.io/ "Website")
 
 ## Updates
 
