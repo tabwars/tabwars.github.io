@@ -2,4 +2,5 @@
   "name": "newtabgame"
   "version": "1.0.0"
   "description": "A Game To Play In The New Tab Page"
+  "main": "index.html"
 }
