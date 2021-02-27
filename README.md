@@ -1,4 +1,4 @@
-# New Tab Game
+# TabWars
 
 [website/Non Tab Version](https://tabwars.github.io/play "Website")
 
