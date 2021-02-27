@@ -4,6 +4,6 @@
 
 ## Updates
 
-|Version|New Functions|Fixes|
-|----|-----|-------|
-|v0|Nothing Yet|Nothing Yet|
+|Version|New Functions|Fixes|Decorations|
+|----|-----|-------|-------|
+|v1|Nothing Yet|Nothing Yet|Added The Background|
