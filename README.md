@@ -1,6 +1,6 @@
 # New Tab Game
 
-[website/Non Tab Version](https://tabwars.github.io/play.html/ "Website")
+[website/Non Tab Version](https://tabwars.github.io/play/ "Website")
 
 ## Updates
 
